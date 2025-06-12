@@ -1,0 +1,13 @@
+[project]
+name = "versionbump"
+version = "0.1.0"
+description = "CLI tool to create or increment _version.py in any project."
+authors = [{ name = "Jason Conner" }]
+dependencies = ["toml"]
+
+[project.scripts]
+versionbump = "versionbump.__main__:main"
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
