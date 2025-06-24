@@ -1,6 +1,6 @@
 [project]
 name = "versionbump"
-version = "0.1.2"
+version = "1.0.0"
 description = "CLI tool to create or increment _version.py in any project."
 dependencies = [ "toml",]
 [[project.authors]]

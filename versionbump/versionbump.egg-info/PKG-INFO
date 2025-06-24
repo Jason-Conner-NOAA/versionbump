@@ -1,6 +1,6 @@
-Metadata-Version: 2.4
+Metadata-Version: 2.1
 Name: versionbump
-Version: 0.1.2
+Version: 0.2.0
 Summary: CLI tool to create or increment _version.py in any project.
 Author: Jason Conner
 Requires-Dist: toml
