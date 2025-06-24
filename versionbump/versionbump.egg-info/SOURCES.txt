@@ -1,9 +1,0 @@
-pyproject.toml
-versionbump/__init__.py
-versionbump/__main__.py
-versionbump.egg-info/PKG-INFO
-versionbump.egg-info/SOURCES.txt
-versionbump.egg-info/dependency_links.txt
-versionbump.egg-info/entry_points.txt
-versionbump.egg-info/requires.txt
-versionbump.egg-info/top_level.txt
